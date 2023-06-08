@@ -1,0 +1,1 @@
+# qt_screenshot_with_ocr
