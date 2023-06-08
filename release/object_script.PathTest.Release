@@ -1,0 +1,13 @@
+release/main.o
+release/controlwidget.o
+release/myrect.o
+release/text_angle_cls.o
+release/text_det.o
+release/text_rec.o
+release/screen.o
+release/qslabel.o
+release/qrc_res.o
+release/moc_controlwidget.o
+release/moc_myrect.o
+release/moc_screen.o
+release/moc_qslabel.o
